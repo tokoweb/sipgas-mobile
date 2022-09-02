@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411303561630",
+    "project_id": "sipgas-6a9ea",
+    "storage_bucket": "sipgas-6a9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411303561630:android:52e7ec79bb8a33a7372e8f",
+        "android_client_info": {
+          "package_name": "com.sipgas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411303561630-736sr3kfu385u0q4fnp8k7ume8s43baq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7kFx-ZqU9j-STagyzwVOhqw625IclYQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411303561630-736sr3kfu385u0q4fnp8k7ume8s43baq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
