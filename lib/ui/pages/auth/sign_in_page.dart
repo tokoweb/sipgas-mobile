@@ -21,15 +21,9 @@ class _SignInPageState extends State<SignInPage> {
     Widget logo() {
       return Center(
         child: Container(
-          margin: EdgeInsets.only(top: 50, bottom: 40),
-          height: 110,
-          width: 200,
-          decoration: BoxDecoration(
-            image: DecorationImage(
-              image: AssetImage('assets/icon/ic_logo_white.png'),
-              fit: BoxFit.fill,
-            ),
-          ),
+          margin: EdgeInsets.symmetric(vertical: 60),
+          width: 240,
+          child: Image.asset('assets/icon/ic_logo_white.png'),
         ),
       );
     }
